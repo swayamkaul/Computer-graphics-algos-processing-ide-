@@ -1,1 +1,1 @@
-# processing ide
+# Computer Graphics Algorithms in Processing IDE
